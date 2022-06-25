@@ -1,0 +1,23 @@
+@font-face {
+    font-family: sukhumvit;
+    src: url(../fonts/sukhumvittadmai_med-webfont.eot);
+    src: url(../fonts/sukhumvittadmai_med-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sukhumvittadmai_med-webfont.woff2) format("woff2"), url(../fonts/sukhumvittadmai_med-webfont.woff) format("woff"), url(../fonts/sukhumvittadmai_med-webfont.ttf) format("truetype"), url(../fonts/sukhumvittadmai_med-webfont.svg#sukhumvit_tadmaimedium) format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: sukhumvit;
+    src: url(../fonts/sukhumvittadmai_sebold-webfont.eot);
+    src: url(../fonts/sukhumvittadmai_sebold-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sukhumvittadmai_sebold-webfont.woff2) format("woff2"), url(../fonts/sukhumvittadmai_sebold-webfont.woff) format("woff"), url(../fonts/sukhumvittadmai_sebold-webfont.ttf) format("truetype"), url(../fonts/sukhumvittadmai_sebold-webfont.svg#sukhumvit_tadmaisemibold) format("svg");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: sukhumvit;
+    src: url(../fonts/sukhumvittadmai_bol-webfont.eot);
+    src: url(../fonts/sukhumvittadmai_bol-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sukhumvittadmai_bol-webfont.woff2) format("woff2"), url(../fonts/sukhumvittadmai_bol-webfont.woff) format("woff"), url(../fonts/sukhumvittadmai_bol-webfont.ttf) format("truetype"), url(../fonts/sukhumvittadmai_bol-webfont.svg#sukhumvit_tadmaibold) format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
